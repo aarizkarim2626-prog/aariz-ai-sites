@@ -4,7 +4,7 @@ A small chat site backed by Groq's `llama-3.1-8b-instant`. The API key lives
 only on the server (`api/chat.js`) — the browser never sees it.
 
 ## Deploy on Vercel (free)
-
+x
 **Option A — no terminal, just the browser:**
 1. Create a GitHub repo and upload these files (`index.html`, `api/chat.js`, `.gitignore`, `.env.example`, `README.md`).
 2. Go to https://vercel.com → **Add New → Project** → import that repo.
